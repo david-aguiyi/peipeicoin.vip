@@ -92,6 +92,8 @@
 
 .elementor-82 .elementor-element.elementor-element-48fe7001 > .elementor-container {
     max-width: 1217px;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .elementor-82 .elementor-element.elementor-element-48fe7001 {
